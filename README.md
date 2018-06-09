@@ -11,6 +11,7 @@ Miembros del equipo
 Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
 
 María Augusta Jimbo Granda
+
 María Magdalena Romero Guzmán
 
 Ficheros del código fuente y DataSet
