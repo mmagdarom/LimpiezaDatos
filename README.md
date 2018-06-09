@@ -22,7 +22,7 @@ csv/flavors_of_cacao.csv, se encuentra el archivo original del conjunto de datos
 
 csv/flavors_of_cacao1.csv, se encuentra el archivo que se reemplazó los elementos vacíos del archivo flavors_of_cacao.csv, que se los representaba con Â por una cadena vacía para realizar un mejor tratamiento de los mismos.
 
-csv/flavors_of_cacao_clean.csv, se encuentra el archivo con los datos limpios.
+csv/flavors_of_cacao_clean.csv, se encuentra el archivo con los datos limpios y discretizados.
 
 pdf/LimpiezaCacaoMR_MJ.pdf, se encuentra el archivo con las características del DataSet
 
