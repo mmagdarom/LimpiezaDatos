@@ -8,10 +8,10 @@ La informacion del DataSet se enfoca principalmente en el chocolate negro simple
 
 Miembros del equipo
 
-Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
+  Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
 
-María Augusta Jimbo Granda
-María Magdalena Romero Guzmán
+   María Augusta Jimbo Granda
+   María Magdalena Romero Guzmán
 
 Ficheros del código fuente y DataSet
 
