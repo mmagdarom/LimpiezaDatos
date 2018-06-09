@@ -17,9 +17,13 @@ Miembros del equipo
 Ficheros del código fuente y DataSet
 
 codigo/chocolateCocoa.R, clase donde se encuentran todos los comandos para realizar la limpieza de datos.
+
 csv/flavors_of_cacao.csv, se encuentra el archivo original del conjunto de datos, se cambió la cabecera, con nombres más cortos para mejorar la comprensión de los mismos.
+
 csv/flavors_of_cacao1.csv, se encuentra el archivo que se reemplazó los elementos vacíos del archivo flavors_of_cacao.csv, que se los representaba con Â por una cadena vacía para realizar un mejor tratamiento de los mismos.
+
 csv/flavors_of_cacao_clean.csv, se encuentra el archivo con los datos limpios.
+
 pdf/LimpiezaCacaoMR_MJ.pdf, se encuentra el archivo con las características del DataSet
 
 Se debe instalar la siguiente libreria:
