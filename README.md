@@ -2,7 +2,7 @@ Práctica 2: Limpieza de Datos
 
 Descripción
 
-La presente práctica pertenece a la asignatura de Topología y Ciclo de Vida de los Datos de la maestría Ciencia de Datos de la UOC. En esta práctica, hemos aplicado técnicas de limpieza y análisis estadistico en el lenguaje R, con el objetivo de identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas, al conjunto de datos flavors_of_cacao.csv, que se refiere a la clasificación de barras de chocolate a nivel mundial.
+La presente práctica pertenece a la asignatura de Tipología y Ciclo de Vida de los Datos de la maestría Ciencia de Datos de la UOC. En esta práctica, hemos aplicado técnicas de limpieza y análisis estadistico en el lenguaje R, con el objetivo de identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas, al conjunto de datos flavors_of_cacao.csv, que se refiere a la clasificación de barras de chocolate a nivel mundial.
 
 La informacion del DataSet se enfoca principalmente en el chocolate negro simple, con el objetivo de apreciar los sabores del cacao cuando se lo convierte en chocolate. 
 
