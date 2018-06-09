@@ -22,14 +22,17 @@ csv/flavors_of_cacao_clean.csv, se encuentra el archivo con los datos limpios.
 pdf/LimpiezaCacaoMR_MJ.pdf, se encuentra el archivo con las características del DataSet
 
 Se debe instalar la siguiente libreria:
+
 install.packages("VIM"), para la funcion kNN de los vecinos mas cercanos
 
 Se cargan las siguientes librerias:
+
 library(VIM), para los vecinos mas cercanos
 library(car), para las recodificaciones de las variables
 library(nortest), para la prueba de normalidad con el método de Anderson-Darling
 
-Recursos
+Recursos:
+
 Covarianza y correlación
 - https://www.youtube.com/watch?v=nCnscXRG8Ws   
 
