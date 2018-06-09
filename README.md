@@ -11,6 +11,7 @@ Miembros del equipo
   Las integrantes que ejecutamos el desarrollo de la presente práctica somos:
 
    María Augusta Jimbo Granda
+   
    María Magdalena Romero Guzmán
 
 Ficheros del código fuente y DataSet
@@ -28,7 +29,9 @@ install.packages("VIM"), para la funcion kNN de los vecinos mas cercanos
 Se cargan las siguientes librerias:
 
 library(VIM), para los vecinos mas cercanos
+
 library(car), para las recodificaciones de las variables
+
 library(nortest), para la prueba de normalidad con el método de Anderson-Darling
 
 Recursos:
